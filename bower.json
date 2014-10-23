@@ -1,9 +1,9 @@
 {
     "name": "usmap.js",
-    "version": "1.0.2",
+    "version": "1.0.4",
     "main": "dist/jquery.usmap.min.js",
     "dependencies": {
-        "jquery": ">= 2.1.0",
+        "jquery": ">= 1.7.1",
         "raphael": ">= 2.0"
     }
 }
